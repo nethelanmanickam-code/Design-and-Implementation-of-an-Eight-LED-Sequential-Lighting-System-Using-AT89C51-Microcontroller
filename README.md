@@ -222,6 +222,8 @@ Eight-LED-Sequential-Lighting/
 
 ##  Expected Output
 
+<img width="1337" height="989" alt="image" src="https://github.com/user-attachments/assets/890ac280-9770-4c3f-97b2-19b5ecc8ade5" />
+
 The LEDs glow sequentially:
 
 ```text
