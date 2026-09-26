@@ -234,6 +234,8 @@ The sequence repeats continuously.
 
 ---
 
+<img width="1337" height="989" alt="image" src="https://github.com/user-attachments/assets/512eacad-afe3-41ad-b007-e6cd85480e77" />
+
 ##  Applications
 
 This type of sequential lighting system can be used in:
